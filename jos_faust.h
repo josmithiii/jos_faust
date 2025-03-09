@@ -45,19 +45,19 @@
 */
 
 #pragma once
-#define JOSM_FAUST_H_INCLUDED
+#define JOS_FAUST_H_INCLUDED
 
 #include <juce_audio_utils/juce_audio_utils.h> // dependencies
 
 //==============================================================================
 
-/** Config: JOSM_FAUST_PARAM_LOG
+/** Config: JOS_FAUST_PARAM_LOG
 
     When this flag is enabled, every setting of a Faust DSP parameter will
     be logged in the console.
 */
-#ifndef JOSM_FAUST_PARAM_LOG
-#define JOSM_FAUST_PARAM_LOG 1
+#ifndef JOS_FAUST_PARAM_LOG
+#define JOS_FAUST_PARAM_LOG 1
 #endif
 
 //==============================================================================

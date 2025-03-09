@@ -14,8 +14,8 @@
 */
 
 #pragma once
-#define JOSM_EFFECTS_H_INCLUDED
-#pragma message("JOSM_EFFECTS_H_INCLUDED")
+#define JOS_EFFECTS_H_INCLUDED
+#pragma message("JOS_EFFECTS_H_INCLUDED")
 
 /* [NOTE DISABLED DOXYGEN COMMENT] \defgroup effects Effects
  *  @{

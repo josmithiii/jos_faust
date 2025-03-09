@@ -12,7 +12,7 @@
 */
 
 #pragma once
-#define JOSM_SHARED_H_INCLUDED
+#define JOS_SHARED_H_INCLUDED
 
 /* \defgroup shared Shared
  *  @{

@@ -2,7 +2,7 @@
 // Started 2021-10-28
 
 #pragma once
-#define JOSM_OSCILLATORS_H_INCLUDED
+#define JOS_OSCILLATORS_H_INCLUDED
 
 /* \defgroup oscillators Oscillators
  *  @{

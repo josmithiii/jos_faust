@@ -22,7 +22,7 @@
 
  BEGIN_JUCE_MODULE_DECLARATION
 
-  ID:                 josm_faust
+  ID:                 jos_faust
   vendor:             jos
   version:            0.0.1
   name:               JOS Faust Modules for JUCE
@@ -39,9 +39,9 @@
 
 *******************************************************************************/
 
-/*! \file josm_faust.h
-    Includes everything in the josm_faust module
-    @tags{josm_faust}
+/*! \file jos_faust.h
+    Includes everything in the jos_faust module
+    @tags{jos_faust}
 */
 
 #pragma once
@@ -64,12 +64,12 @@
 
 //needed? #include <complex>
 
-#include "shared/josm_shared.h"
-#include "oscillators/josm_oscillators.h"
-// TEMP HACK: #include "filters/josm_filters.h"
-#include "effects/josm_effects.h"
-//#include "effects/josm_freeverb.h"
-//#include "effects/josm_zitarev.h"
+#include "shared/jos_shared.h"
+#include "oscillators/jos_oscillators.h"
+// TEMP HACK: #include "filters/jos_filters.h"
+#include "effects/jos_effects.h"
+//#include "effects/jos_freeverb.h"
+//#include "effects/jos_zitarev.h"
 
 namespace josm
 {

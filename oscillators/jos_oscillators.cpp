@@ -6,7 +6,7 @@
     flags preceding it, but don't include anything else. That also includes avoiding any automatic prefix
     header files that the compiler may be using.
  */
- #error "Incorrect use of JUCE-style module cpp file josm_oscillators.cpp/h"
+ #error "Incorrect use of JUCE-style module cpp file jos_oscillators.cpp/h"
 #endif
 
-#include "josm_oscillators.h"
+#include "jos_oscillators.h"

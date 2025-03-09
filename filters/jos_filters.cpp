@@ -6,7 +6,7 @@
     flags preceding it, but don't include anything else. That also includes avoiding any automatic prefix
     header files that the compiler may be using.
  */
- #error "Incorrect use of JUCE-style module josm_filters.cpp/h"
+ #error "Incorrect use of JUCE-style module jos_filters.cpp/h"
 #endif
 
-#include "josm_filters.h"
+#include "jos_filters.h"

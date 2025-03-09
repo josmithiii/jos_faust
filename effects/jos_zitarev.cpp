@@ -1,11 +1,11 @@
 /*
- * josm_zitarev.cpp
+ * jos_zitarev.cpp
  * Julius Smith
  * October 2021
  * BSD License with LGPL component that is easily rewritten if need be
  */
 
-#include "josm_zitarev.h"
+#include "jos_zitarev.h"
 
 namespace josm {
 

@@ -1,11 +1,11 @@
 /*
- * josm_freeverb.cpp
+ * jos_freeverb.cpp
  * Julius Smith
  * October 2021
  * BSD License with LGPL component that is easily rewritten if need be
  */
 
-#include "josm_freeverb.h"
+#include "jos_freeverb.h"
 
 namespace josm {
 

@@ -1,5 +1,5 @@
 /*
- * josm_zitarev.h - zitarev from the faustlibraries distribution (in reverbs.lib)
+ * jos_zitarev.h - zitarev from the faustlibraries distribution (in reverbs.lib)
  * Julius Smith
  * October 2021
  * BSD License with LGPL component
@@ -22,9 +22,9 @@ namespace josm
       @tags{Effects}
 
       Source:
-       - [josm_zitarev.h](https://github.com/josmithiii/josm_faust/blob/ebad3340273c1739d9ce383d54ccaee3aee476a0/effects/josm_zitarev.h)
-       - [josm_zitarev.cpp](https://github.com/josmithiii/josm_faust/blob/ebad3340273c1739d9ce383d54ccaee3aee476a0/effects/josm_zitarev.cpp)
-       - [zitarev.dsp](https://github.com/josmithiii/josm_faust/blob/main/faust-src/zitarev.dsp)
+       - [jos_zitarev.h](https://github.com/josmithiii/jos_faust/blob/ebad3340273c1739d9ce383d54ccaee3aee476a0/effects/jos_zitarev.h)
+       - [jos_zitarev.cpp](https://github.com/josmithiii/jos_faust/blob/ebad3340273c1739d9ce383d54ccaee3aee476a0/effects/jos_zitarev.cpp)
+       - [zitarev.dsp](https://github.com/josmithiii/jos_faust/blob/main/faust-src/zitarev.dsp)
     */
   class JUCE_API Zitarev : public FaustModule
   {
